@@ -7,5 +7,11 @@ featured_image: /images/angels_landing.jpg
 
 ![](/images/jfk_approach.jpg)
 
+## Who am I
 
-sdfsdf
+
+## What is on this site
+
+
+## Pictures
+The photography on the site is generally pretty unrelated to the content, but

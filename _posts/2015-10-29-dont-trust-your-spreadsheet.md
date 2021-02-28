@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Modern Data Analysis: Don’t Trust Your Spreadsheet'
 slug: 'dont-trust-your-speadsheet'
 date: 2015-10-29 00:00:00
