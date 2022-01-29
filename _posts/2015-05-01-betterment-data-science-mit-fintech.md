@@ -1,5 +1,5 @@
 ---
-title: 'Data Science at Bettermernt @ MIT Fintech Conference'
+title: 'Data Science at Bettermernt @ MIT FinTech Conference'
 slug: 'betterment-data-science-mit-fintech'
 date: 2015-05-01 00:00:00
 categories:
