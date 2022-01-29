@@ -63,3 +63,5 @@ I heard opposite predictions on height for 15.3 since the lanky folks get those 
 ![](/assets/images/posts/crossfit_15.5_weight.png)
 
 ![](/assets/images/posts/crossfit_15.5_height_weight.png)
+
+I’m planning to do at least one more post about the Open with regional, gym, and multi-year analyses.  In the mean time, this has been a blast.  Post analysis requests here in the comments or [on Reddit](http://www.reddit.com/r/crossfit/comments/310xfj/wod_data_155_and_taking_analysis_requests_what/), or download the data and do your own exploring.
