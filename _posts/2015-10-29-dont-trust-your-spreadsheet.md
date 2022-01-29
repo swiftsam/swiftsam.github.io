@@ -7,6 +7,7 @@ categories:
   - blog
 tags:
   - data
+  - Betterment
 ---
 
 _This post was originally published [on the Betterment blog](https://www.betterment.com/resources/modern-data-analysis-dont-trust-your-spreadsheet/)_
