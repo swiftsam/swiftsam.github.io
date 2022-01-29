@@ -19,7 +19,7 @@ In the end, 55% of the 262,037 athletes who registered posted a score all 5 week
 
 ![](/assets/images/posts/crossfit_15.5_participation.png)
 
-_Observant regular readers might notice that this chart shows more attrition than the plots I made in previous weeks. It turns out that’s because I scraped the leaderboard on Monday night for 15.1 and 15.2 and later in the week for 3 through 5.  Since coaches have until Wednesday to validate scores, I had undercounted the participation in weeks 1 and 2.  The complete downloadable data is now updated for each wod on my site._
+_Observant regular readers might notice that this chart shows more attrition than the plots I made in previous weeks. It turns out that’s because I scraped the leaderboard on Monday night for 15.1 and 15.2 and later in the week for 3 through 5.  Since coaches have until Wednesday to validate scores, I had undercounted the participation in weeks 1 and 2.  The [complete downloadable data](/crossfit-games-data-2012-2015) is now updated for each wod on my site._
 
 # 15.5 Rx
 27-21-15-9 reps for time of:

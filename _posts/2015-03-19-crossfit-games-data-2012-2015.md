@@ -12,7 +12,7 @@ toc: true
 
 # Mission part 1: Bring CrossFit data mainstream.  Success!
 
-Part 1 in my mission to bring more data to the CrossFit Open is now a success. I always wondered why CrossFit HQ didn’t do more to bring the story of the Open to the fans and participants through its data.  Now they have.  The 4 x “M” team of Mike Macpherson and Megan Mitchell brought us the [first ever analytical piece from HQ breaking down performances on 15.3](http://games.crossfit.com/article/153-leaderboard-analysis).  It bears a striking resemblance to the analytical approach I’ve taken here in analyses of 2014, 15.1, and 15.2, and I’m happy to have made an impression.  This is CrossFit, you can’t get out to a lead and expect that nobody will catch up.  It’s better if they do.
+Part 1 in my mission to bring more data to the CrossFit Open is now a success. I always wondered why CrossFit HQ didn’t do more to bring the story of the Open to the fans and participants through its data.  Now they have.  The 4 x “M” team of Mike Macpherson and Megan Mitchell brought us the [first ever analytical piece from HQ breaking down performances on 15.3](http://games.crossfit.com/article/153-leaderboard-analysis).  It bears a striking resemblance to the analytical approach I’ve taken here in analyses of [2014](/where-did-you-really-stack-up-in-the-2014-open-wods), [15.1](/wod-data-crossfit-open-15-1), and [15.2](/wod-data-crossfit-open-15-2/), and I’m happy to have made an impression.  This is CrossFit, you can’t get out to a lead and expect that nobody will catch up.  It’s better if they do.
 
 # Mission part 2: Take CrossFit data to the next level.
 

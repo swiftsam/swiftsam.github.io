@@ -10,7 +10,7 @@ tags:
 toc: true
 ---
 
-I was so tired from those muscle ups it took me an extra couple of days to get this post up.  In the mean time, we’ve had a new player enter the scene: CrossFit HQ themselves! I’m psyched that the measurement-oriented sport of CrossFit is finally bringing the data to the games front page. See if you notice any resemblance in their analysis approach.
+I was so tired from those muscle ups it took me an extra couple of days to get this post up.  In the mean time, we’ve had a new player enter the scene: [CrossFit HQ themselves](http://games.crossfit.com/article/153-leaderboard-analysis)! I’m psyched that the measurement-oriented sport of CrossFit is finally bringing the data to the games front page. See if you notice any resemblance in their analysis approach.
 
 Now that we’ve hit the mainstream, it’s time to take it to another level. **I’ve posted all of the profile and leaderboard data from 2012-2015.3 online** so that nobody else has to go through the trouble of scraping it all to contribute an interesting analysis or graphic. [Separate post for all of that over](/crossfit-games-data-2012-2015). Dig in and let me know if you do or find something interesting.
 
@@ -40,7 +40,7 @@ Since over half of athletes competed in the Scaled version of 15.3, lets make su
 50 wall-ball shots
 200 single-unders
 
-Those first 500 reps felt like they meant something, but you didn’t get much credit for them as 7 out of 8 athletes made it into the 3rd round.  The most popular stopping points for men and women were at rep 550 and 750 where it’s likely athletes pushed hard to finish the movement and then came up short on gas or time to start back into the other movement. I like the little spikes at 400 and 650 and how these histograms are so nice and symmetric.  If you take out the spikes and squish the middle together, you can imagine a nice normal distribution like we saw in 14.5.
+Those first 500 reps felt like they meant something, but you didn’t get much credit for them as 7 out of 8 athletes made it into the 3rd round.  The most popular stopping points for men and women were at rep 550 and 750 where it’s likely athletes pushed hard to finish the movement and then came up short on gas or time to start back into the other movement. I like the little spikes at 400 and 650 and how these histograms are so nice and symmetric.  If you take out the spikes and squish the middle together, you can imagine a nice normal distribution like we saw in [14.5](/where-did-you-really-stack-up-in-the-2014-open-wods).
 
 We can repeat our analysis of slopes here and see how much more valuable wall balls were than single unders.  For the scaled workout, **each wall ball rep moved you up in the rankings as much as 3.7 single unders**.
 

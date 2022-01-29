@@ -12,7 +12,7 @@ toc: true
 
 15.4! Hand stand pushups and (pretty) heavy cleans.  Did you have em?  More people showed up this week with HSPUs than had muscle ups last week, but it was still a workout that pushed a lot of athlete’s limits.  Somewhat surprisingly, we’re seeing almost no attrition since the first week.  I think you could argue at this point that having the scaled division is keeping people in the game while allowing for more challenging Rx programming.
 
-I’ve added 15.4 to my public collection of Open data, so feel free to download and see what you can add.
+I’ve added 15.4 to [my public collection of Open data](/crossfit-games-data-2012-2015), so feel free to download and see what you can add.
 
 ![](/assets/images/posts/crossfit_15.4_participation-1024x614.png)
 
