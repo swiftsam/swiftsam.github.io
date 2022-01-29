@@ -15,6 +15,5 @@ Site started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistak
     - [] https://web.archive.org/web/20190802104840/http://swift.pw/wod-data-crossfit-open-15-1/
     - [] https://web.archive.org/web/20190802105630/http://swift.pw/where-did-you-really-stack-up-in-the-2014-open-wods/
 - [] create posts for other content
-    - [] mixpanel https://www.youtube.com/watch?v=nrGYg1Xm2yo
+
     - [] migrating from redshift to snowflake https://www.youtube.com/watch?v=VhH614WVufM
-    - [] predict schema https://www.youtube.com/watch?v=dm0x9bNtO8s&t=1452s
