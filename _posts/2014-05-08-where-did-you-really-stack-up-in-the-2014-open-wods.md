@@ -28,7 +28,7 @@ The first thing you see are huge spikes at the end of each set.  The weight didn
 10 chest-to-bar pull-ups
 each set of 2 completed rounds, add 3 minutes and increase reps by 2
 
-![](/assets/images/posts/crossfit_14_2_annotated-1024x614.png)
+![](/assets/images/posts/crossfit_14_2_annotated.png)
 
 The women’s results are dominated by the ability to do a chest to bar pull up which stymied 9,179 women, or nearly 20% of the entire field making for a very short 10 rep WOD.  The men’s results reflect lots of “just lemme finish this set” pushes we see in the spikes at the right edge of each band.  The exceptions are reps 40, 88, 144, and 208.  180 athletes stopped at one of those scores even though they had just earned 3 more minutes to keep working.  Some days enough is enough.
 
@@ -52,7 +52,7 @@ The women’s results are dominated by the ability to do a chest to bar pull up 
 30 cleans, 95/135 lb.
 20 muscle-ups
 
-> Graph sadly lost to the sands of the internet
+![](/assets/images/posts/crossfit_14_4_annotated.png)
 
 So, can you do a muscle-up?   22,052 (17%) athletes made it through the cleans but couldn’t get up on the rings, making it by far the biggest factor for both genders.  Toes-to-bar also proved problematic for 6% of women meaning 14.4 was just a quick spin on the rower.  You can see goal setting pretty clearly in the men’s cleans at 160 and 170.
 
