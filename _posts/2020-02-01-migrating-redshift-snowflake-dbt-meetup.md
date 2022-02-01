@@ -8,6 +8,7 @@ tags:
   - dbt
   - analytics engineering
   - Bowery
+excerpt: A talk with Travis Dunlop for the dbt meet-up we hosted at Bowery. We shared revelations from our experiencing of migrating our dbt project from Redshift to Snowflake.
 ---
 
 {% include video id="VhH614WVufM" provider="youtube" %}

@@ -8,6 +8,7 @@ tags:
   - dbt
   - ml engineering
   - Bowery
+excerpt: At Data Council's NYC conference, I described how I built data ingestion, warehousing, analytics, and productionized machine learning with a team of 1 using all the best new tools. 
 ---
 
 

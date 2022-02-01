@@ -7,6 +7,7 @@ categories:
   - blog
 tags:
   - career
+excerpt: An interview with The Muse about my experience at Bowery and the not-obvious career path that led me to vertical farming.
 ---
 
 ![](/assets/images/posts/sam_swift_farmer.jpg)

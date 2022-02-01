@@ -7,6 +7,8 @@ categories:
 tags:
   - buggy
   - data
+header: 
+    image: /assets/images/buggy_course.jpg
 ---
 
 I was very kindly invited to give a talk at Carnegie Mellon during the _Buggy Showcase_ (aka Design Comp) portion of Spring Carnival. For the uninitiated, ‘Buggy’ is a race held annually among CMU students since 1920. It’s part soap box derby or street luge, and part relay race. It involved finding the smallest girl you can on campus, building an unpowered carbon fiber vehicle for her, and then pushing her as quickly as possible around a park. Sometimes a video helps explain.

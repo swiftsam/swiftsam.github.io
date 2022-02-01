@@ -8,6 +8,7 @@ tags:
   - dbt
   - ml engineering
   - Bowery
+excerpt: How we use dbt as our feature store for most ML projects at Bowery Farming which allows for an elegant stack, predictable dependencies across code bases, and quick development.
 ---
 
 {% include video id="dm0x9bNtO8s" provider="youtube" %}
