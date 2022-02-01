@@ -10,8 +10,6 @@ tags:
   - Betterment
 ---
 
-_This post was originally published [on the Betterment blog](https://www.betterment.com/resources/modern-data-analysis-dont-trust-your-spreadsheet/)_
-
 - Companies are innovating and improving the craft of using data to do business.
 - Companies like Betterment are hiring data scientists and analysts who use software development techniques to reliably answer business questions which have quickly expanded in scale and complexity.
 - To do good data work today, you need to use a system that is reproducible, versionable, scalable, and open.
@@ -81,3 +79,7 @@ Moving your organization towards these ideals is likely to be an imperfect and g
 In the near term, look for smaller pieces of the analytical workflow which would benefit especially from the efficiencies of reproducible, programmatic analysis and reporting. Good candidates are reports that are updated frequently, require extensive collaboration, or are constantly hung up on discussions over details of implementation or interpretation.
 
 Changing workflows and acquiring new skills is always an investment, but the dividends here are better collaboration, efficient iteration, transparency in process and confidence in the claims and recommendations you make.  It’s worth it.
+
+
+This post was originally published [on the Betterment blog](https://www.betterment.com/resources/modern-data-analysis-dont-trust-your-spreadsheet/)
+{: .notice}

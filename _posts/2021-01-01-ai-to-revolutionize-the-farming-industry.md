@@ -11,8 +11,6 @@ tags:
 
 ![](/assets/images/posts/sam_swift_farmer.jpg)
 
-_This post was originally published [on the Muse's Career Stories blog](https://www.themuse.com/advice/senior-director-data-ai-bowery-farming-sam-swift/)_
-
 If you’ve ever felt discouraged because you’re not quite sure what type of career you want, take it from Sam Swift: You will figure it out. And he should know. Swift worked in software and academia before taking data science roles in national intelligence, fintech, and, now, agriculture.
 
 “I think it’s OK not to have a very specific plan for your career because it’s quite likely that you haven’t even heard of your dream job yet,” he says. “That’s the best way I can explain my path.”
@@ -54,3 +52,6 @@ The startup world puts a real premium on near-term progress and subjects teams t
 I would recommend taking the opportunities that are honestly interesting to you and will add something new to your skills or experiences. At every single decision point in my career, I’ve chosen the lower-paying job opportunity because I wanted it more. That’s not a decision rule I set out to adhere to, but in each situation, one of the options spoke to me and I’m not very good at saying no to that.
 
 The good news is that following my interests has put me in situations where I can’t help but work hard and figure things out, and that’s what companies are hoping for. Good fits lead to more opportunities for growth and “making your own luck” as your career develops.
+
+This post was originally published [on the Muse's Career Stories blog](https://www.themuse.com/advice/senior-director-data-ai-bowery-farming-sam-swift/)
+{: .notice}
