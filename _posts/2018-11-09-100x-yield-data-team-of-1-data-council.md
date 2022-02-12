@@ -11,6 +11,20 @@ tags:
 excerpt: At Data Council's NYC conference, I described how I built data ingestion, warehousing, analytics, and productionized machine learning with a team of 1 using all the best new tools. 
 ---
 
+In November 2018, I spoke at the DataEngConf NYC (now called Data Council) about my work building the initial data infrastructure at Bowery Farming.  
+
+My main points were
+
+- The challenge in standing up a data ecosystem from scratch is "completing the loop". You've got to
+    - collect the data
+    - organize it all nicely
+    - get it back out into the business to do something useful
+- I accomplished this quickly and cheaply with 
+    - AWS SNS, SQS, and Kinesis Firehose to collect messages from our application and IoT fleet
+    - Redshift to store and compute
+    - dbt to transform
+        - differentiated `ingest` and `warehouse` schemas to do extraction and transformation work in series
+- Our warehouse functions as the foundation of both our human-facing analytics as well as our machine-facing ML data products
 
 {% include video id="chfIo1O0Cpk" provider="youtube" %}
 
