@@ -23,6 +23,13 @@ Some of my academic and industry work has been covered in the media ...
     *   Quartz, [If you want to invest smarter, invest like a woman](http://qz.com/412502/if-you-want-to-invest-smarter-invest-like-a-woman/)
 *   Ascent (Columbia/CUNY/NYU/Cornell), [Career transitions from academia to data science](https://video.cvn.columbia.edu/media/t/0_hj4q5qik/24901351) (video) at About.com
 
+### Academic Dishonesty (from my time @ Carnegie Mellon and Duke)
+
+I was quoted in both of these pieces in 2023 exploring the people and backstories surrounding questions about Francesca Gino and Dan Ariely's research ethics. 
+
+* New Yorker, [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie)
+* New York Times, [The Harvard Professor and the Bloggers](https://www.nytimes.com/2023/09/30/business/the-harvard-professor-and-the-bloggers.html) 
+
 ### Admissions and hiring decisions (@ Carnegie Mellon)
 
 *   Los Angeles Times, [Grade inflation works – in schools and in the workforce, study finds](http://www.latimes.com/news/science/sciencenow/la-sci-sn-grade-inflation-20130724,0,3196331.story)
