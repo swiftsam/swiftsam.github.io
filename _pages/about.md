@@ -5,7 +5,7 @@ header:
     image: /assets/images/nickel_bridge.jpg
 ---
 
-I live in Brooklyn with my family and work as the VP of Engineering at [Sealed](https://sealed.com/) where we accelerate residential energy efficiency and electrification by connecting contractors, homeowners, and government incentive programs. 
+I live in Brooklyn with my family and work as the CTO at [Sealed](https://sealed.com/) where we accelerate residential energy efficiency and electrification by connecting contractors, homeowners, and government incentive programs. 
 
 Before getting into the residential energy business, I led engineering and data teams at four other startups: 
 - [Arcadia](https://www.arcadia.com/arc): led the data platform team in a growth-stage business executing on new product lines and substantial M&A moves. We modernized and fully integrate the data platform to support analytics in an increasing complicated company, but also to productionize derived data products for the new B2B data product, Arc. 
